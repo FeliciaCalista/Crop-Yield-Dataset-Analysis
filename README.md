@@ -49,6 +49,12 @@ Fitur paling berpengaruh:
 * Efisiensi berbeda antar negara
 * Beberapa negara sangat bergantung pada pestisida
 
+## Collaborators
+
+* gracehutapea1208: Data Processing
+* Shindyye: Feature Selection
+* FeliciaCalista: Exploratory Data Analysis
+
 ## Future Improvements
 
 - Machine learning prediction model
