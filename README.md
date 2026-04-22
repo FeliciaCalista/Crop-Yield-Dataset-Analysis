@@ -51,9 +51,9 @@ Fitur paling berpengaruh:
 
 ## Collaborators
 
-* gracehutapea1208: Data Processing
-* Shindyye: Feature Selection
-* FeliciaCalista: Exploratory Data Analysis
+* @gracehutapea1208: Data Processing
+* @Shindyye: Feature Selection
+* @FeliciaCalista: Exploratory Data Analysis
 
 ## Future Improvements
 
